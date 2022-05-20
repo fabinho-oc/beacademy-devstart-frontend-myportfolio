@@ -97,7 +97,7 @@ header .container nav .menu-social img:hover {
   font-size: 1.8rem;
   line-height: 2.7rem;
   text-align: center;
-  color: rgba(220, 246, 75, 0.8);
+  color: rgba(75, 246, 232, 0.8);
 }
 
 .s-hero .container .title .techs {
@@ -259,31 +259,6 @@ header .container nav .menu-social img:hover {
 .s-cases .container .cases img:hover {
   transform: translateY(-2%);
 }
-
-/* .s-cases .container .cases .case {
-  position: absolute;
-  top: 0;
-  left: 405px;
-}
-
-.s-cases .container .cases .case:first-child {
-  position: absolute;
-  top: 0;
-  left: 4px;
-}
-
-.s-cases .container .cases .case:nth-child(2) {
-  position: absolute;
-  top: -20px;
-  left: 315px;
-  z-index: 1;
-}
-
-.s-cases .container .cases .case:last-child {
-  position: absolute;
-  top: 0;
-  left: 700px;
-} */
 
 /* Contact */
 

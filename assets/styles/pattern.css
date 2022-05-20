@@ -1,12 +1,19 @@
 /* My variable colors */
 
+/*Color Pattern (cores padronizadas) */
+/* as cores precisam estar dentro do root para funcionar para o CSS
+tag root é raiz*/
 :root {
-  --primary-color: #dcf64b;
-  --second-color: #a0b435;
+  /*paleta de cores Luan no projeto be.Academy*/
+  --primary-color: #4b9bf6;
+  --second-color: #1520b6;
   --black-color: #000000;
   --black-color-medium: #0c0c0c;
   --semi-black: #1e1e1e;
-  --white-color: #ffffff;
+  --white-color:#ffffff;
+/*
+  /*paleta de cores exercicio*/
+
 }
 
 /* Grid normal 12columns */
